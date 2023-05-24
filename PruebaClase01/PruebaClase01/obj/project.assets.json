@@ -10416,11 +10416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lopezla\\source\\repos\\PruebaClase01\\PruebaClase01\\PruebaClase01.csproj",
+      "projectUniqueName": "C:\\Users\\Lopezla\\Links\\PiaProgramacionWebb\\PruebaClase01\\PruebaClase01\\PruebaClase01.csproj",
       "projectName": "PruebaClase01",
-      "projectPath": "C:\\Users\\Lopezla\\source\\repos\\PruebaClase01\\PruebaClase01\\PruebaClase01.csproj",
+      "projectPath": "C:\\Users\\Lopezla\\Links\\PiaProgramacionWebb\\PruebaClase01\\PruebaClase01\\PruebaClase01.csproj",
       "packagesPath": "C:\\Users\\Lopezla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lopezla\\source\\repos\\PruebaClase01\\PruebaClase01\\obj\\",
+      "outputPath": "C:\\Users\\Lopezla\\Links\\PiaProgramacionWebb\\PruebaClase01\\PruebaClase01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
